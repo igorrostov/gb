@@ -1,1 +1,1 @@
-# gb
+# gb_mysql
